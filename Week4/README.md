@@ -1,6 +1,6 @@
 # Week 4 Assignments
 
-# Anomaly Detection and Image Generation Projects
+# Anomaly Detection, Image Generation Projects and Text To Speech AI 
 
 This folder contains Python scripts for anomaly detection using clustering algorithms and pipeline-based approaches for generating images with APIs and models.
 
@@ -18,7 +18,7 @@ This folder contains Python scripts for anomaly detection using clustering algor
 3. **imageGenPipeline.py**  
    - Builds a robust image generation pipeline.
    - Combines multiple steps such as preprocessing, API interaction, and postprocessing of generated images.
-
+4. **TextToSpeech.py**
 ---
 
 ### **README.md**
